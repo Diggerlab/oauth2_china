@@ -8,4 +8,5 @@ module Oauth2China
   end
   autoload :Sina,    'oauth2_china/strategies/sina'
   autoload :Tencent, 'oauth2_china/strategies/tencent'
+  autoload :QQ, 'oauth2_china/strategies/qq'
 end
